@@ -1,0 +1,17 @@
+@import 'fonts';
+@import 'variables';
+@import 'reset';
+
+
+.container { @extend %leftfull; min-width: 1140px; @extend %overflow;}
+
+.wrapper1178 {width:1178px; margin:0 auto;}
+
+.wrapper1140 {width:1140px; margin:0 auto;}
+
+.wrapper1031 {width:1031px; margin:0 auto;}
+
+.wrapper940 {width:940px; margin:0 auto;}
+
+.separator{border-bottom: 1px solid #ddd;}
+

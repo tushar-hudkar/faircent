@@ -1,0 +1,9 @@
+.table{@extend %leftfull;  margin-top: 100px; margin-bottom: 32px;
+	h3{font-size: 30px; color: #424242; font-weight: 300; text-transform: uppercase; @extend %left; margin: 12px 0px;}
+	table {width:100%;background: #eeeeee; }	
+	tr {height:60px; border-bottom: 1px solid #FFF; width:100%;}
+	td, th {text-align: center; vertical-align: middle; line-height: 1;}
+	th {background:#96bddd; min-width: 78px;}
+	th:first-child {background:#619ccc;}
+	td:first-child {background:#96bddd;}
+}

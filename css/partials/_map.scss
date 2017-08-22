@@ -1,0 +1,48 @@
+.map {@extend %leftfull; height:600px; position: relative;
+		h3{font-size: 30px; color: #424242; font-weight: 300; padding-bottom: 36px; @extend %left;  margin: 22px 0 0 42px;}
+
+	.scale{position: relative; width: 100%;
+	#chart_div {width:100%; height:600px; overflow: hidden; }
+		
+		.map_scale{position: absolute; right: 275px; bottom: 14px; width: 192px; background: #FFF;
+					
+					.one{width: 100%; @extend %left;
+							.scale_first{width: 68px; @extend %left; height: 32px; background-color: #012d51;}
+
+							p{@extend %left; font-size: 18px; color: #424242; line-height: 30px; margin-left: 20px;}
+					}
+
+					.two{width: 100%; @extend %left;
+							.scale_second{width: 68px; @extend %left; height: 32px; background-color: #004a75;}
+
+							p{@extend %left; font-size: 18px; color: #424242; line-height: 30px; margin-left: 20px;}
+					}
+
+					.three{width: 100%; @extend %left;
+							.scale_third{width: 68px; @extend %left; height: 32px; background-color: #007ec5;}
+
+							p{@extend %left; font-size: 18px; color: #424242; line-height: 30px; margin-left: 20px;}
+					}
+
+					.four{width: 100%; @extend %left;
+							.scale_fourth{width: 68px; @extend %left; height: 32px; background-color: #33b6ff;}
+
+							p{@extend %left; font-size: 18px; color: #424242; line-height: 30px; margin-left: 20px;}
+					}
+
+					.five{width: 100%; @extend %left;
+							.scale_fifth{width: 68px; @extend %left; height: 32px; background-color: #dfdfdf;}
+
+							p{@extend %left; font-size: 18px; color: #424242; line-height: 30px; margin-left: 20px;}
+					}
+
+
+				
+		
+		
+}
+	
+
+	
+}
+}

@@ -1,0 +1,4 @@
+.bar {@extend %leftfull; height:600px;
+			h3{font-size: 30px; color: #424242; font-weight: 300; text-transform: uppercase; @extend %left; margin: 22px 0 0 42px;}
+	#chart_bar {width:100%; height:542px; overflow: hidden;}
+}
